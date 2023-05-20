@@ -1,7 +1,7 @@
 ![logo](https://github.com/SANDY837/SANDY837/blob/main/1_qzvOZZgHq_allGVXq8RWeQ.png)
 <h1 align="center">Hi 👋, I'm Thimancherla Sandeep</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
-<img align="right" alt="coding" width="200" height="200" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif"
+<img align="right" alt="coding" width="150" height="200" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy837&label=Profile%20views&color=0e75b6&style=flat" alt="sandy837" /> </p>
 
